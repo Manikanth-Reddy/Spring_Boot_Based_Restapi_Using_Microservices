@@ -1,4 +1,4 @@
-oin me on a Java-powered adventure where we explore the vast realm of programming excellence. This repository is a treasure trove of Java projects, tutorials, and code samples carefully crafted to enhance your Java skills.
+Join me on a Java-powered adventure where we explore the vast realm of programming excellence. This repository is a treasure trove of Java projects, tutorials, and code samples carefully crafted to enhance your Java skills.
 
 From Core Java fundamentals to advanced topics like Spring Boot, Hibernate, and RESTful APIs, we cover it all. Whether you're a seasoned developer or a curious learner, there's something here for everyone.
 
